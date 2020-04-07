@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "846076520868",
+    "firebase_url": "https://prince-nit-jsr.firebaseio.com",
+    "project_id": "prince-nit-jsr",
+    "storage_bucket": "prince-nit-jsr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846076520868:android:49c5fdf4c5bbd76a2eb931",
+        "android_client_info": {
+          "package_name": "com.appdeveloper.prince.princenitjsr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846076520868-co1hi6evetma59i4rhceb0iuhalc3p1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appdeveloper.prince.princenitjsr",
+            "certificate_hash": "18a26f83db08f69d282547d04c1a6ebe61ea45e0"
+          }
+        },
+        {
+          "client_id": "846076520868-0st2e95mjacn0m85i26cadf8r1tfb8ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR7PCZ-_QaSP7iQ20S_jP8-YBCrQeqmFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846076520868-0st2e95mjacn0m85i26cadf8r1tfb8ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
